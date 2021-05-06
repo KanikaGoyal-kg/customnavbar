@@ -1,0 +1,10 @@
+.button-style {
+    padding-left: 60px;
+    padding-right: 50px;
+    height: 35px;
+    border-radius: 10px;
+    margin-right: 4px;
+    background-color: #10A6D3;
+    border-color: #10A6D3;
+    box-sizing: content-box;
+}
